@@ -1,0 +1,6 @@
+{
+  "name": "Mini-ERP Manufatura - PCP & Planejamento",
+  "description": "Mini-ERP completo para planejamento e controle da produção (PCP) em pequenas empresas de manufatura: fichas técnicas, insumos, parceiros, capacidade produtiva, pedidos e ordens de produção.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
